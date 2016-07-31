@@ -1,0 +1,1 @@
+g++ dodge.cpp Game.cpp gameObject.cpp player.cpp enemy.cpp coin.cpp mtrand/mtrand.cpp -o dodge.exe -Lc:\sfml21\lib -Ic:\sfml21\include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
